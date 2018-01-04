@@ -1,9 +1,19 @@
 # formation-boudet-tpg
 
-## COMMANDE AVEC GIT BASH
-``cd``: naviguer dans les dossiers
+
+
+``cd ..``: revenir sur le dossier parent
+
 
 ``touch {nomfichier}`` : creer un fichier
+
+``mkdir {nomdossier}`` : creer un dossier
+
+``ls`` : liste les fichiers et dossier du repertoire courant
+
+``echo salut`` : print sur la std out
+
+``cmd1 >> cmd2`` : Pipe permettant a la cmd2 de s'executer en fonction de la sortie de la cmd1 (exemple : echo salut >> fichier.txt)
 
 ```git init``` : demarrer un projet git dans le dossier
 
